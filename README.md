@@ -57,3 +57,7 @@ littlerabbit是【小兔跳铃铛】这个小游戏的外挂
 ============
 * 邮箱：lj925184928@gmail.com
 * 微信关注我：![微信关注我](http://images.cnblogs.com/cnblogs_com/numbbbbb/512440/o_qrcode_for_gh_c5b8e57da986_430.jpg)
+
+授权协议
+============
+基于[WTFPL](http://en.wikipedia.org/wiki/WTFPL)开源协议开源。
